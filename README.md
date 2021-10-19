@@ -1,3 +1,7 @@
+# instancing and skinned meshes in OpenGL
+
+![alt text](https://github.com/jackw1111/instanced-skinned-mesh/blob/master/instancing.png?raw=true)
+
 # notes
 
 - OpenGL will need access to GL_ARB_arrays_of_arrays whether that is directly from a modern version of
